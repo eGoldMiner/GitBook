@@ -2,26 +2,24 @@
 
 Les NFT sont animé et en 3D, ce sera donc des GIF !
 
-Les mineurs d'un nouveau genre possèdent 7 attributs différents, pouvez mint des attributs légendaires, rares ou communs en fonction des % de chance de chacun des attributs
+Les mineurs d'un nouveau genre possèdent différents attributs :
 
 * Une mine d'or en arrière-plan
-
-{% hint style="info" %}
-Légendaire : 5%
-
-Rare : 15%
-
-Commun : 80%
-{% endhint %}
-
 * Un casque
 * Des yeux
 * Une barbe
 * Un tee-shirt
 * Une pioche
-* Un lingot
 
-Il y a 11,111 NFT avec des types de lingot dans la main des mineurs&#x20;
+Pour ces 6 attributs, il y a des attributs légendaires, rares et communs qui impacteront sur la rentabilité de votre mineur.
+
+| Légendaire | Rare | Commun |
+| :--------: | :--: | :----: |
+|     5%     |  15% |   80%  |
+
+Le dernier attribut est un lingot qui n'impactera pas l'efficacité de votre mineur mais qui vous permettra d'accéder à de nouvelles fonctionnalités futures.
+
+Sur les 11,111 NFT, voici les différents lingots :
 
 * 11 NFT avec un lingot d'or unique
 * 100 NFT avec un lingot d'or légendaire
