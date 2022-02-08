@@ -2,7 +2,7 @@
 
 Les NFT sont animé et en 3D, ce sera donc des GIF !
 
-Les mineurs d'un nouveau genre possèdent différents attributs :
+Ces mineurs d'un nouveau genre possèdent différents attributs :
 
 * Une mine d'or en arrière-plan
 * Un casque
