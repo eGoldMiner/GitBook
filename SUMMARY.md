@@ -4,6 +4,7 @@
 
 ## Project
 
+* [Comment obtenir un mineur](project/comment-obtenir-un-mineur.md)
 * [📌  Notre projet](project/notre-projet.md)
 * [⛏ Comment miner ?](project/comment-miner.md)
 * [💰 Récompenses](project/recompenses.md)
