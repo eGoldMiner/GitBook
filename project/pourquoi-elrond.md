@@ -4,4 +4,6 @@
 
 Avec son algorithme de Secure Proof of Stake, nous sommes convaincus qu'**Elrond** est une des blockchain les plus puissantes de toutes !&#x20;
 
+De plus, Elrond assure le lien d'un NFT avec son propriétaire directement via son addresse de wallet et non pas via un smart contract. Les NFT sont visibles directement sur l'application Maiar.
+
 C'est la raison pour laquelle nous avons décidé de faire travailler nos mineurs d'or sur la blockchain **Elrond**.

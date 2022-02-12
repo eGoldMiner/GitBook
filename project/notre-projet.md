@@ -1,6 +1,6 @@
 # 📌  Notre projet
 
-Les NFT sont animé et en 3D, ce sera donc des GIF !
+Les NFT sont animés et en 3D, ce sera donc des GIF !
 
 Ces mineurs d'un nouveau genre possèdent différents attributs :
 
