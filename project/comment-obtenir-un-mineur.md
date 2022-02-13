@@ -1,13 +1,17 @@
-# Comment obtenir un mineur
+# 👷 Comment obtenir un mineur ?
 
-Afin d'acquerir un mineur il y a plusieurs possibilités
+There is different way to obtain a miner :
 
+* Private sale :&#x20;
+  * Total : 1000
+  * Price : 0.5EGLD
+* Pre sale :&#x20;
+  * Total : 2000
+  * Price : 0.6 EGLD
+* Public sale :&#x20;
+  * Total : 8111
+  * Price : 0.7 EGLD
 * Creation d'un ESDT (PresaleMinor)&#x20;
   * Total: 11.111&#x20;
   * Value : 0.5 EGLD
-* Pre-sale
-  * Buy ESDT&#x20;
-  * Burn ESDT (Burn le token vs NFT)
-* Public sale
-  * Remainings&#x20;
 

@@ -4,9 +4,9 @@
 
 ## Project
 
-* [Comment obtenir un mineur](project/comment-obtenir-un-mineur.md)
 * [📌  Notre projet](project/notre-projet.md)
-* [⛏ Comment miner ?](project/comment-miner.md)
+* [👷 Comment obtenir un mineur ?](project/comment-obtenir-un-mineur.md)
 * [💰 Récompenses](project/recompenses.md)
+* [⛏ Comment miner ?](project/comment-miner.md)
 * [🖤 Pourquoi Elrond ?](project/pourquoi-elrond.md)
 * [🤓 L'équipe](project/lequipe.md)
