@@ -4,9 +4,9 @@ coverY: 0
 
 # 📰  Introduction
 
-{% embed url="https://docs.elrondminers.com/v/whitepaper-fr" %}
-Whitepaper FR
-{% endembed %}
+{% content-ref url="https://app.gitbook.com/o/XY86mB25nYNYnJcIwJqL/s/fF5beSpjVzZHU5oiM6Uk/" %}
+[Whitepaper EN](https://app.gitbook.com/o/XY86mB25nYNYnJcIwJqL/s/fF5beSpjVzZHU5oiM6Uk/)
+{% endcontent-ref %}
 
 Le projet **Elrond Miners** est une collection de 11,111 NFTs générer automatiquement et aléatoirement.&#x20;
 
